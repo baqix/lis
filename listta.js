@@ -28,3 +28,6 @@ let imie=lista_kontaktow[2].phone;//tel
 let imie=lista_kontaktow[0].email;
 let imie=lista_kontaktow[1].email;
 let imie=lista_kontaktow[2].email;//email
+console.log(lista_kontaktow[0].name+lista_kontaktow[0].phone+lista_kontaktow[0].phone)
+
+console.log(lista_kontaktow[2].name+lista_kontaktow[2].phone+lista_kontaktow[2].phone)
